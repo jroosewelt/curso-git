@@ -1,9 +1,9 @@
-#Readme.md teste git
+# Git teste
 
-#arquivo modificado
+arquivo modificado
 
-#nova linha para mostrar o git diff
+nova linha para mostrar o git diff
 
-#nova linha teste git eye
+nova linha teste git eye
 
-#teste do commit local apenas
+teste do commit local apenas
